@@ -3,7 +3,7 @@
  * @Author Apa Oww
  */
 
-namespace apaoww\oci8;
+namespace dekado\oci8;
 
 use yii\base\InvalidCallException;
 use yii\db\Connection;
@@ -419,6 +419,6 @@ EOD;
      */
     protected function createColumnSchema()
     {
-        return Yii::createObject('apaoww\oci8\ColumnSchema');
+        return Yii::createObject('dekado\oci8\ColumnSchema');
     }
 }
