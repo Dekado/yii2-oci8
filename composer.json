@@ -1,18 +1,18 @@
 {
-    "name": "apaoww/yii2-oci8",
-    "description": "Oci8 Driver for Yii2 ",
+    "name": "dekado/yii2-oci8",
+    "description": "Oci8 Driver for Yii2 with returned nulls",
     "version":"1.0.0",
-    "keywords": ["yii", "oci8"],
+    "keywords": ["yii", "oci8", "oci8 null"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/apaoww/yii2-oci8/issues",
-        "source": "https://github.com/apaoww/yii2-oci8"
+        "issues": "https://github.com/dekado/yii2-oci8/issues",
+        "source": "https://github.com/dekado/yii2-oci8"
     },
     "authors": [
         {
-            "name": "Apa Oww",
-            "email": "apa.oww@gmail.com"
+            "name": "Dekado",
+            "email": "famine2@yandex.ru"
         }
     ],
     "require": {
@@ -20,7 +20,7 @@
     },
     "autoload": {
         "psr-4": {
-            "apaoww\\oci8\\": ""
+            "dekado\\oci8\\": ""
         }
     },
     "extra": {
