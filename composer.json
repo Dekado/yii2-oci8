@@ -1,5 +1,5 @@
 {
-    "name": "dekado/yii2-oci8",
+    "name": "dekado/yii2-oci8-nulls",
     "description": "Oci8 Driver for Yii2 with returned nulls",
     "version":"1.0.0",
     "keywords": ["yii", "oci8", "oci8 null"],
